@@ -1,2 +1,11 @@
-# job4_Java
-learn Java and Java tehologies
+
+Sergei Poddubnyak, email: forvvard09@gmail.com
+Study on http://job4j.ru, courses java-a-to-z
+
+
+
+
+
+
+ 
+

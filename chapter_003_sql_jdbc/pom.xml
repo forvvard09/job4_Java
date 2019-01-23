@@ -6,8 +6,8 @@
     <version>1.0.0</version>
 
     <parent>
-        <groupId>ru.spoddubnyak.job4j_Java</groupId>
-        <artifactId>2_Standart</artifactId>
+        <groupId>ru.spoddubnyak</groupId>
+        <artifactId>job4j_Java</artifactId>
         <version>1.0.0</version>
     </parent>
 
